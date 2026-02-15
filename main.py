@@ -4,7 +4,7 @@ import os
 from dotenv import load_dotenv
 import asyncio
 
-# --- SERVIDOR WEB (Flask) para UptimeRobot ---
+# SERVIDOR WEB (Flask) para UptimeRobot
 from flask import Flask
 from threading import Thread
 
@@ -21,7 +21,7 @@ def keep_alive():
     t = Thread(target=run)
     t.start()
 
-# --- CONFIGURACIÓN INICIAL ---
+# CONFIGURACIÓN INICIAL
 load_dotenv()
 TOKEN = os.getenv('DISCORD_TOKEN')
 
@@ -118,5 +118,5 @@ async def nuke_discord(interaction: discord.Interaction):
     print("💥 Todos los logs se imprimen en consola.")
 
 # --- EJECUTAR BOT ---
-keep_alive()  # 🔥 Inicia el servidor Flask
+keep_alive()  
 bot.run(TOKEN)
