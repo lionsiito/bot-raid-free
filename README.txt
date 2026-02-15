@@ -18,7 +18,7 @@ cd bot-raid-free
 pip install -r requirements.txt
 
 🔑 Configuración
-Abre la carpeta y busca el .env abrelo:
+Abre la carpeta y busca el env.txt abrelo:
 Ve a Bot → Add Bot
 Copia el Bot Token y pegalo en
 TOKEN = "TU_TOKEN_AQUI"
