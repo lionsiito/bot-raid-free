@@ -28,7 +28,7 @@ Reemplázalo por tu token real
 Abre cmd, cd bot-raid-free
 python bot.py
 
-Borra canales, Borra roles y expulsa por ultimo todos los miembros (a exce`pcion miembros con rol admin).
+Borra canales, Borra roles y expulsa por ultimo todos los miembros (a excepción miembros con rol admin).
 Si hay bot AntiRaid recomendable expulsarlo antes de hacerlo (si tienes permisos admin puedes expulsar el bot antiraid).
 
 Si quieres usar uno ya creado
