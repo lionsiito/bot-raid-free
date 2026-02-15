@@ -1,9 +1,32 @@
 INFO DEL BOT
-1º Crea un bot y cambia el token, tu token por el que esta en el .env
-2º se necesita permisos ADMINISTRADOR para poder meterlo
-3º pones /nukedisco
-4º seguido de poner el comando tienes 15 segundos para poner CONFIRMAR y mandarlo, el resto es magia
-5º disfrutar
+Discord Bot RAID en Python
+Requisitos
+Tener Python 3.9 o superior
+pip
+Cuenta en Discord
+Bot creado en el Developer Portal
+
+Crear tu Bot en Discord
+Ve a https://discord.com/developers/applications
+Pulsa New Application
+
+1️⃣ Clonar el repositorio
+git clone https://github.com/tuusuario/turepositorio.git
+cd turepositorio
+
+2️⃣ Instalar dependencias
+pip install -r requirements.txt
+
+🔑 Configuración
+Abre la carpeta y busca el .env abrelo:
+Ve a Bot → Add Bot
+Copia el Bot Token y pegalo en
+TOKEN = "TU_TOKEN_AQUI"
+Reemplázalo por tu token real
+
+▶️ Ejecutar el Bot en tu cmd
+Abre cmd, cd bot-raid-free
+python bot.py
 
 Borra canales, Borra roles y expulsa por ultimo todos los miembros (a exce`pcion miembros con rol admin).
 Si hay bot AntiRaid recomendable expulsarlo antes de hacerlo (si tienes permisos admin puedes expulsar el bot antiraid).
