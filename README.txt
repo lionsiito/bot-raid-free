@@ -11,7 +11,7 @@ Ve a https://discord.com/developers/applications
 Pulsa New Application
 
 1️⃣ Clonar el repositorio
-git clone https://github.com/lionsiito/bot-raid-fee.git
+git clone https://github.com/lionsiito/bot-raid-free.git
 cd turepositorio
 
 2️⃣ Instalar dependencias
