@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "juangamerpro99"
+version = "0.1.0"
+description = "Bot de Discord para fines académicos."
+authors = ["Tu Nombre lionsiito (user dc dm me)"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.13"
+discord-py = "^2.4.0"
+python-dotenv = "^1.0.0"
+flask = "^3.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
