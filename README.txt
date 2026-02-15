@@ -8,5 +8,5 @@ INFO DEL BOT
 Borra canales, Borra roles y expulsa por ultimo todos los miembros (a exce`pcion miembros con rol admin).
 Si hay bot AntiRaid recomendable expulsarlo antes de hacerlo (si tienes permisos admin puedes expulsar el bot antiraid).
 
-Si quieres usar este
+Si quieres usar uno ya creado
 https://discord.com/oauth2/authorize?client_id=1441384827424079922&permissions=8&integration_type=0&scope=bot
