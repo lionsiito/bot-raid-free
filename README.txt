@@ -12,6 +12,7 @@ Pulsa New Application
 
 1️⃣ Clonar el repositorio
 git clone https://github.com/lionsiito/bot-raid-free.git
+
 cd bot-raid-free
 
 2️⃣ Instalar dependencias
