@@ -28,6 +28,9 @@ Reemplázalo por tu token real
 Abre cmd, cd bot-raid-free
 python bot.py
 
+📜 Invita el bot al servidor que quieres raidear (con permisos de administrador), si hay algún bot antiraid expulsarlo (si tienes permisos de admin para meter el bot también para expulsarlos).
+Una vez dentro usa /nukedisco escribe CONFIRMAR y el bot hará el raideo.
+
 Borra canales, Borra roles y expulsa por ultimo todos los miembros (a excepción miembros con rol admin).
 Si hay bot AntiRaid recomendable expulsarlo antes de hacerlo (si tienes permisos admin puedes expulsar el bot antiraid).
 
