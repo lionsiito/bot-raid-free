@@ -27,7 +27,7 @@ Reemplázalo por tu token real
 
 4️⃣ Ejecutar el Bot en tu cmd
 Abre cmd, cd bot-raid-free
-python bot.py
+python main.py
 
 5️⃣ Invita el bot al servidor que quieres raidear (con permisos de administrador), si hay algún bot antiraid expulsarlo (si tienes permisos de admin para meter el bot también para expulsarlos).
 Una vez dentro usa /nukedisco escribe CONFIRMAR y el bot hará el raideo.
